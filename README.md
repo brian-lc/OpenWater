@@ -15,7 +15,7 @@ https://docs.google.com/spreadsheets/d/1hH_PX7qE9Eqqa5zU-xhwlhM-gbqpwk3e61Kn0q8U
 
 # History
 
-## V3 - Pelican case
+## V3 - Pelican case - WIP
 This version rethinks the whole approach and tries to again use a simple enclosure to house the electronics and keep things water-tight. Forget submerged housings and dealing with buoyancy. This will use some foam and the Pelican case to keep the device on top of the water. It'll be bigger but it will also allow the placement of a solar panel on top. 
 
 
